@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ScienceNature12
 - 👀 I’m interested in ... learning more about web devlelopment. 
 - 🌱 I’m currently learning ... computer scince in genral.
-- 💞️ I’m looking to collaborate on ... a website. 
 - 📫 How to reach me ... via my email at tylermbolen@gmail.com
 
 <!---
